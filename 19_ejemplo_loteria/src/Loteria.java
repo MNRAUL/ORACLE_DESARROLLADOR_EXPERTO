@@ -36,7 +36,7 @@ public class Loteria {
 	}
 
 	/**
-	 * Metodo para ordenar los datos
+	 * Metodo para ordenar los datos de menor a mayor
 	 * 
 	 * @param datos
 	 * @return
