@@ -61,7 +61,7 @@ public class Loteria {
 	 * @param numero
 	 * @param datos
 	 * @param generados
-	 *            Variable para
+	 *            Variable para saber cuantos numeros se han generado hasta el momento
 	 * @return
 	 */
 	public static boolean existeNumero(int numero, int datos[], int generados) {
