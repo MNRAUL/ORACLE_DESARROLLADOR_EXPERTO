@@ -74,7 +74,7 @@ public class Loteria {
 	}
 
 	/**
-	 * Metodo que concatena los valores de un array en un String
+	 * Metodo que concatena los valores de un array en un String.
 	 * 
 	 * @param datos
 	 * @return
